@@ -37,8 +37,6 @@ layer normalization
 
 Transformer block
 
-GPT model
-
 training loop
 
 validation loss
