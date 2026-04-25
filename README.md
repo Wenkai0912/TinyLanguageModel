@@ -13,3 +13,4 @@ Speech and Language Processing — Jurafsky & Martin
 
 Build a Large Language Model From Scratch — Sebastian Raschka
 
+CS224N
