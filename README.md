@@ -14,3 +14,23 @@ Speech and Language Processing — Jurafsky & Martin
 Build a Large Language Model From Scratch — Sebastian Raschka
 
 CS224N
+
+Goal:
+character-level tokenizer or simple tokenizer
+train / validation split
+token embedding
+positional embedding
+causal self-attention
+multi-head attention
+feed-forward network
+residual connection
+layer normalization
+Transformer block
+GPT model
+training loop
+validation loss
+checkpoint saving/loading
+temperature sampling
+top-k sampling
+loss curve
+sample generated outputs
